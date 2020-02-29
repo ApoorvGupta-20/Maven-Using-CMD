@@ -117,9 +117,9 @@
     <url>http://localhost:8081/repository/testrel/</url>
   </repository>
   <snapshotRepository>
-    <id>snapshotrepo</id>
-    <name>snapshotrepo</name>
-    <url>http://localhost:8081/repository/snapshotrepo/</url>
+    <id>MavenApoorvRepo</id>
+    <name>MavenApoorvRepo</name>
+    <url>http://localhost:8081/repository/MavenApoorvRepo/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
